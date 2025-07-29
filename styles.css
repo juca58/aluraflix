@@ -2,3 +2,7 @@ body {
     color: rgb(230, 225, 225);
     background: rgb(61, 4, 4);
 }
+
+header {
+    border: solid 2px white;
+}
