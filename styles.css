@@ -2,6 +2,7 @@ body {
     color: rgb(230, 225, 225);
     background: rgb(61, 4, 4);
     margin: 0px;
+    font-family: "Libertinus Serif", serif;
 }
 
 header {
@@ -22,3 +23,15 @@ section{
 
 }
 
+.chamada-texto {
+    margin-right: 5%;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
