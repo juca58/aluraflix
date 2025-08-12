@@ -15,5 +15,10 @@ header {
 
 section{
     background: #7b2c3a;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
 }
 
